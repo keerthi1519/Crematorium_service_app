@@ -38,7 +38,7 @@ lib/
 │   ├── auth_provider.dart
 │   └── use_cases.dart
 ├── widgets/
-│   └── [your custom widgets]
+│   └── custom_appbar.dart
 ├── main.dart
 └── supabase_config.dart
 
@@ -95,8 +95,9 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 ### Run the app
 
 flutter pub get
-
 flutter run
+
+
 ![Home screen](https://github.com/user-attachments/assets/e2611b41-c1a3-4452-b077-fd9090c2b84e)
 ![User Login](https://github.com/user-attachments/assets/c6ba92da-e0f6-4ece-b5bf-cb777a63b0a6)
 ![Admin Login](https://github.com/user-attachments/assets/6bc6d66e-b210-46ed-ab40-361d4c89868e)
