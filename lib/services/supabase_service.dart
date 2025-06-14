@@ -7,8 +7,8 @@ class SupabaseService {
   static late final SupabaseClient _client;
 
   // ✅ Add your Supabase credentials here (Replace with your actual keys)
-  static const String _supabaseUrl = "https://lcobvndzdtpgdwywjtxb.supabase.co";
-  static const String _supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxjb2J2bmR6ZHRwZ2R3eXdqdHhiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMyMTE2OTUsImV4cCI6MjA1ODc4NzY5NX0.eosLwIg_fB2HsPFiFPZ4VPQur2ZOdrxuhDTPOr_8hTs";
+  static const String _supabaseUrl = "https://your-project.supabase.co";
+  static const String _supabaseAnonKey = "your-secret-key";
 
   SupabaseService._internal();
 
