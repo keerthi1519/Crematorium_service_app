@@ -4,7 +4,7 @@ A complete Flutter-based cremation slot booking and document verification system
 
 ---
 ## 📁 Project Structure
-
+<pre>
 lib/
 ├── helpers/
 │   └── time_helper.dart
@@ -41,7 +41,7 @@ lib/
 │   └── custom_appbar.dart
 ├── main.dart
 └── supabase_config.dart
-
+</pre>
 ## 📱 About the App
 
 This app simplifies the cremation process by enabling users to:
