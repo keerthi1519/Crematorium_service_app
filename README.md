@@ -95,4 +95,26 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 ### Run the app
 
 flutter pub get
+
 flutter run
+![Home screen](https://github.com/user-attachments/assets/e2611b41-c1a3-4452-b077-fd9090c2b84e)
+![User Login](https://github.com/user-attachments/assets/c6ba92da-e0f6-4ece-b5bf-cb777a63b0a6)
+![Admin Login](https://github.com/user-attachments/assets/6bc6d66e-b210-46ed-ab40-361d4c89868e)
+![User Dashboard](https://github.com/user-attachments/assets/a4ed474a-76f1-49a4-b694-e0efd7f62626)
+![Medical form](https://github.com/user-attachments/assets/9aa4264b-0f70-4197-9df1-ee4f1e261ed5)
+![Medical form1](https://github.com/user-attachments/assets/1b7386a0-6dea-4102-a9ef-9dbf142cdf1c)
+![Document Upload screen](https://github.com/user-attachments/assets/42cabf7c-6465-4788-816c-f26652c83bfb)
+![Document Upload Screen1](https://github.com/user-attachments/assets/5951d068-45ed-4f14-9b80-ab397f33e0ef)
+![screen](https://github.com/user-attachments/assets/9fd4b7ed-eae7-4edd-8963-24e665b90834)
+![Booking status](https://github.com/user-attachments/assets/13a4c6db-68e8-4d73-a1d0-f204efaa3f89)
+![Admin Dahboard](https://github.com/user-attachments/assets/37f4d60d-413b-4eae-9777-64a31522bc76)
+
+
+
+
+
+
+
+
+
+
