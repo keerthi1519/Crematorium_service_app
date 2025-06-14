@@ -3,7 +3,7 @@
 A complete Flutter-based cremation slot booking and document verification system powered by **Supabase**.
 
 ---
-## 📁 Project Structure
+## Project Structure
 <pre>
 lib/
 ├── helpers/
@@ -42,7 +42,7 @@ lib/
 ├── main.dart
 └── supabase_config.dart
 </pre>
-## 📱 About the App
+## About the App
 
 This app simplifies the cremation process by enabling users to:
 - Book cremation slots (max 6 per day)
@@ -54,7 +54,7 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 
 ---
 
-## 🔐 Features
+## Features
 
 ### 👤 User Features
 - Secure signup/login using Supabase Auth
@@ -67,7 +67,7 @@ The app supports **user and admin login**, handles **slot availability**, and pr
   - Applicant Aadhar card
 - Slot booking with real-time status
 
-### 🛠️ Admin Features
+### Admin Features
 - Admin login (username & password)
 - View all booking requests
 - Access uploaded documents via Supabase
@@ -77,7 +77,7 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Flutter** – Frontend UI
 - **Supabase** – Auth, Realtime DB, and Storage
@@ -85,7 +85,7 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 - Flutter SDK
