@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907695500822",
+    "project_id": "cremation-booking",
+    "storage_bucket": "cremation-booking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907695500822:android:5d2d2b214dabb4968a8f37",
+        "android_client_info": {
+          "package_name": "com.cremation.crematoriumbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxNm42W03ozCySh4EsO32LNLkAkzIApE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907695500822:android:62a1ab2a5540164e8a8f37",
+        "android_client_info": {
+          "package_name": "com.example.cremation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxNm42W03ozCySh4EsO32LNLkAkzIApE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

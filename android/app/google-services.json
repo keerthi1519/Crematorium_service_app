@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561684718966",
+    "project_id": "creamation-service-app",
+    "storage_bucket": "creamation-service-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561684718966:android:98bf15994ef4157378c657",
+        "android_client_info": {
+          "package_name": "com.example.cremation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbOEGSgum31Su9mEgWqaNo7ofA_DLQR4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561684718966:android:169e9a3e93821e1978c657",
+        "android_client_info": {
+          "package_name": "com.example.cremationservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbOEGSgum31Su9mEgWqaNo7ofA_DLQR4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
