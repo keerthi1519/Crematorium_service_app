@@ -93,9 +93,12 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 - Android Studio or VS Code
 
 ### Run the app
-
+<pre>
+Run the app
 flutter pub get
 flutter run
+</pre>
+
 
 
 ![Home screen](https://github.com/user-attachments/assets/e2611b41-c1a3-4452-b077-fd9090c2b84e)
