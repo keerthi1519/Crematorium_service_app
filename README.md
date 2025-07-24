@@ -94,7 +94,6 @@ The app supports **user and admin login**, handles **slot availability**, and pr
 
 ### Run the app
 <pre>
-Run the app
 flutter pub get
 flutter run
 </pre>
